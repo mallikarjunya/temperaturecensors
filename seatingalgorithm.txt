@@ -1,0 +1,13 @@
+Algorithm for students exam seating arrangement
+
+
+Start
+
+Step 1: When ever the student enters, first start the student from the left side of the first row of the table
+Step 2: and let  one of the Physics student sit there
+Step 3: Place a maths student to the left of physics student who initially sat 
+Step 4: Place a chemistry student behind the first physics student 
+Step 5: Place a physics student behind the maths student 
+Step 6: Repeat from step 3 to step 6 to the right until all the students are seated properly
+
+End
